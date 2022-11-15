@@ -463,6 +463,14 @@ section {
   margin-bottom: 20px;
   color: #050d18;
 }
+div.scroll {
+  background-color: #fed9ff;
+  width: 700px;
+  height: 700px;
+  overflow: auto;
+  text-align: justify;
+  padding: 20px;
+}
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
