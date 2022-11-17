@@ -466,7 +466,7 @@ section {
 div.scroll {
   background-color: #fed9ff;
   width: 700px;
-  height: 700px;
+  height: 800px;
   overflow: auto;
   text-align: justify;
   padding: 20px;
